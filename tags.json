@@ -1,0 +1,1109 @@
+{
+    "tags": [
+        {
+            "element": "DOCTYPE",
+            "description": "Define o tipo de documento e a versão do HTML.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "html",
+            "description": "Elemento raiz que engloba todo o documento HTML.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "head",
+            "description": "Contém informações sobre o documento, como metadados e links para folhas de estilo.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "title",
+            "description": "Define o título da página que aparece na barra de título do navegador.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "meta",
+            "description": "Fornece metadados sobre o documento, como codificação de caracteres e descrição.",
+            "attributes": [
+                "charset",
+                "name",
+                "content"
+            ]
+        },
+        {
+            "element": "link",
+            "description": "Liga o documento a uma folha de estilo externa.",
+            "attributes": [
+                "rel",
+                "href",
+                "type"
+            ]
+        },
+        {
+            "element": "style",
+            "description": "Define estilos CSS diretamente no documento.",
+            "attributes": [
+                "type",
+                "media"
+            ]
+        },
+        {
+            "element": "script",
+            "description": "Inclui scripts JavaScript no documento.",
+            "attributes": [
+                "type",
+                "src",
+                "async",
+                "defer"
+            ]
+        },
+        {
+            "element": "body",
+            "description": "Contém o conteúdo visível da página, como texto, imagens e elementos interativos.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "h1",
+            "description": "Cabeçalhos de diferentes níveis de importância.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "p",
+            "description": "Define um parágrafo de texto.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "a",
+            "description": "Cria um link para outra página ou recurso.",
+            "attributes": [
+                "href",
+                "target",
+                "rel"
+            ]
+        },
+        {
+            "element": "img",
+            "description": "Exibe uma imagem na página.",
+            "attributes": [
+                "src",
+                "alt",
+                "width",
+                "height"
+            ]
+        },
+        {
+            "element": "ul",
+            "description": "Cria uma lista não ordenada.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "ol",
+            "description": "Cria uma lista ordenada.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "li",
+            "description": "Define um item de lista em uma lista ordenada ou não ordenada.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "div",
+            "description": "Cria uma divisão ou seção genérica em um documento.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "span",
+            "description": "Define uma parte de texto que pode ser estilizada separadamente.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "form",
+            "description": "Define um formulário de entrada de dados.",
+            "attributes": [
+                "action",
+                "method"
+            ]
+        },
+        {
+            "element": "input",
+            "description": "Define um campo de entrada de dados em um formulário.",
+            "attributes": [
+                "type",
+                "name",
+                "value"
+            ]
+        },
+        {
+            "element": "textarea",
+            "description": "Cria uma área de texto de várias linhas em um formulário.",
+            "attributes": [
+                "name",
+                "rows",
+                "cols"
+            ]
+        },
+        {
+            "element": "button",
+            "description": "Cria um botão clicável.",
+            "attributes": [
+                "type",
+                "name",
+                "value"
+            ]
+        },
+        {
+            "element": "label",
+            "description": "Rótulo descritivo para elementos de formulário.",
+            "attributes": [
+                "for"
+            ]
+        },
+        {
+            "element": "select",
+            "description": "Cria uma lista suspensa de opções em um formulário.",
+            "attributes": [
+                "name",
+                "size",
+                "multiple"
+            ]
+        },
+        {
+            "element": "option",
+            "description": "Define uma opção em um elemento ＜select＞.",
+            "attributes": [
+                "value",
+                "selected"
+            ]
+        },
+        {
+            "element": "table",
+            "description": "Cria uma tabela.",
+            "attributes": [
+                "border",
+                "width"
+            ]
+        },
+        {
+            "element": "tr",
+            "description": "Define uma linha em uma tabela.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "td",
+            "description": "Define uma célula em uma tabela.",
+            "attributes": [
+                "colspan",
+                "rowspan"
+            ]
+        },
+        {
+            "element": "th",
+            "description": "Define um cabeçalho de coluna em uma tabela.",
+            "attributes": [
+                "colspan",
+                "rowspan"
+            ]
+        },
+        {
+            "element": "thead",
+            "description": "Agrupa os cabeçalhos de uma tabela.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "tbody",
+            "description": "Agrupa o corpo da tabela.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "tfoot",
+            "description": "Agrupa o rodapé da tabela.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "br",
+            "description": "Insere uma quebra de linha.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "hr",
+            "description": "Insere uma linha horizontal.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "iframe",
+            "description": "Permite incorporar outra página da web dentro do documento.",
+            "attributes": [
+                "src",
+                "width",
+                "height"
+            ]
+        },
+        {
+            "element": "audio",
+            "description": "Inclui um elemento de áudio em uma página.",
+            "attributes": [
+                "src",
+                "controls",
+                "autoplay"
+            ]
+        },
+        {
+            "element": "video",
+            "description": "Inclui um elemento de vídeo em uma página.",
+            "attributes": [
+                "src",
+                "controls",
+                "autoplay"
+            ]
+        },
+        {
+            "element": "canvas",
+            "description": "Cria uma área de desenho com JavaScript.",
+            "attributes": [
+                "width",
+                "height"
+            ]
+        },
+        {
+            "element": "svg",
+            "description": "Define gráficos vetoriais escaláveis.",
+            "attributes": [
+                "width",
+                "height"
+            ]
+        },
+        {
+            "element": "nav",
+            "description": "Define uma seção de navegação.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "header",
+            "description": "Define um cabeçalho de página ou seção.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "footer",
+            "description": "Define um rodapé de página ou seção.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "section",
+            "description": "Define uma seção de conteúdo.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "article",
+            "description": "Define um conteúdo autônomo, como uma postagem de blog.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "aside",
+            "description": "Define um conteúdo relacionado, como uma barra lateral.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "main",
+            "description": "Define o conteúdo principal de um documento.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "figure",
+            "description": "Agrupa uma mídia (como uma imagem) com uma legenda.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "figcaption",
+            "description": "Define a legenda para uma figura.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "datalist",
+            "description": "Define uma lista de opções para um elemento ＜input＞ do tipo 'list'.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "details",
+            "description": "Define um elemento que pode ser expandido para revelar mais informações.",
+            "attributes": [
+                "open"
+            ]
+        },
+        {
+            "element": "abbr",
+            "description": "Define uma abreviação ou acrônimo.",
+            "attributes": [
+                "title"
+            ]
+        },
+        {
+            "element": "address",
+            "description": "Define informações de contato do autor/proprietário de uma página ou artigo.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "area",
+            "description": "Define uma área sensível de um mapa de imagem.",
+            "attributes": [
+                "alt",
+                "coords",
+                "shape",
+                "href",
+                "target"
+            ]
+        },
+        {
+            "element": "bdi",
+            "description": "Isola uma parte do texto que pode ser formatada de forma diferente do texto adjacente.",
+            "attributes": [
+                "dir"
+            ]
+        },
+        {
+            "element": "bdo",
+            "description": "Substitui a direção atual do texto.",
+            "attributes": [
+                "dir"
+            ]
+        },
+        {
+            "element": "blockquote",
+            "description": "Define uma seção de texto citado de outra fonte.",
+            "attributes": [
+                "cite"
+            ]
+        },
+        {
+            "element": "canvas",
+            "description": "Define uma área gráfica (desenho) em que você pode desenhar com JavaScript.",
+            "attributes": [
+                "width",
+                "height"
+            ]
+        },
+        {
+            "element": "cite",
+            "description": "Define o título de uma obra criativa (por exemplo, um livro, um poema ou uma música).",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "code",
+            "description": "Define uma peça de código.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "col",
+            "description": "Define as propriedades das colunas para elementos ＜colgroup＞.",
+            "attributes": [
+                "span"
+            ]
+        },
+        {
+            "element": "colgroup",
+            "description": "Agrupa elementos ＜col＞ para formatar as colunas em uma tabela.",
+            "attributes": [
+                "span"
+            ]
+        },
+        {
+            "element": "data",
+            "description": "Armazena informações de máquina legíveis em elementos ＜time＞.",
+            "attributes": [
+                "value"
+            ]
+        },
+        {
+            "element": "datalist",
+            "description": "Define uma lista de opções para um elemento ＜input＞ do tipo 'list'.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "details",
+            "description": "Define um elemento que pode ser expandido para revelar mais informações.",
+            "attributes": [
+                "open"
+            ]
+        },
+        {
+            "element": "dfn",
+            "description": "Define uma definição de termo.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "dialog",
+            "description": "Define uma caixa de diálogo ou janela.",
+            "attributes": [
+                "open"
+            ]
+        },
+        {
+            "element": "figcaption",
+            "description": "Define a legenda para uma figura.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "figure",
+            "description": "Agrupa uma mídia (como uma imagem) com uma legenda.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "mark",
+            "description": "Define o texto marcado para fins de destaque.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "meter",
+            "description": "Define um valor escalar dentro de um intervalo conhecido (um medidor).",
+            "attributes": [
+                "value",
+                "min",
+                "max",
+                "low",
+                "high",
+                "optimum"
+            ]
+        },
+        {
+            "element": "nav",
+            "description": "Define uma seção de navegação em um documento.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "output",
+            "description": "Define o resultado de um cálculo.",
+            "attributes": [
+                "for",
+                "form",
+                "name"
+            ]
+        },
+        {
+            "element": "progress",
+            "description": "Exibe o progresso da conclusão de uma tarefa.",
+            "attributes": [
+                "value",
+                "max"
+            ]
+        },
+        {
+            "element": "q",
+            "description": "Define uma citação curta.",
+            "attributes": [
+                "cite"
+            ]
+        },
+        {
+            "element": "rp",
+            "description": "Fornece texto alternativo para navegadores que não suportam a tag ＜ruby＞.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "rt",
+            "description": "Define uma explicação/pronúncia de caracteres (para scripts asiáticos) em uma tag ＜ruby＞.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "ruby",
+            "description": "Define uma explicação/pronúncia de caracteres (para scripts asiáticos).",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "s",
+            "description": "Define texto que não é mais preciso ou relevante.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "samp",
+            "description": "Define uma amostra de saída de um programa de computador.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "small",
+            "description": "Define texto menor.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "strong",
+            "description": "Define texto importante.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "sub",
+            "description": "Define texto subscrito.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "summary",
+            "description": "Define um cabeçalho visível para um elemento ＜details＞.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "sup",
+            "description": "Define texto sobrescrito.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "time",
+            "description": "Define uma data/hora.",
+            "attributes": [
+                "datetime"
+            ]
+        },
+        {
+            "element": "u",
+            "description": "Define texto com ênfase adicional.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "var",
+            "description": "Define uma variável em um programa de computador.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "wbr",
+            "description": "Define onde uma possível quebra de linha deve ocorrer.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "template",
+            "description": "Habilita a inclusão de fragmentos HTML do lado do cliente e a renderização condicional de acordo com o JavaScript.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "slot",
+            "description": "Define um ponto de inserção para conteúdo HTML em um modelo.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "shadow",
+            "description": "Define sombras em elementos.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "picture",
+            "description": "Contém elementos ＜source＞ para oferecer várias versões de uma imagem para diferentes tamanhos de exibição e dispositivos.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "source",
+            "description": "Define várias fontes para elementos ＜picture＞, ＜audio＞ e ＜video＞.",
+            "attributes": [
+                "src",
+                "srcset",
+                "sizes",
+                "type",
+                "media"
+            ]
+        },
+        {
+            "element": "track",
+            "description": "Define faixas de texto para elementos ＜video＞ e ＜audio＞.",
+            "attributes": [
+                "src",
+                "srclang",
+                "label",
+                "kind",
+                "default"
+            ]
+        },
+        {
+            "element": "wbr",
+            "description": "Define onde uma possível quebra de linha deve ocorrer.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "datalist",
+            "description": "Define uma lista de opções para um elemento ＜input＞ do tipo 'list'.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "details",
+            "description": "Define um elemento que pode ser expandido para revelar mais informações.",
+            "attributes": [
+                "open"
+            ]
+        },
+        {
+            "element": "dfn",
+            "description": "Define uma definição de termo.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "dialog",
+            "description": "Define uma caixa de diálogo ou janela.",
+            "attributes": [
+                "open"
+            ]
+        },
+        {
+            "element": "figcaption",
+            "description": "Define a legenda para uma figura.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "figure",
+            "description": "Agrupa uma mídia (como uma imagem) com uma legenda.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "mark",
+            "description": "Define o texto marcado para fins de destaque.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "meter",
+            "description": "Define um valor escalar dentro de um intervalo conhecido (um medidor).",
+            "attributes": [
+                "value",
+                "min",
+                "max",
+                "low",
+                "high",
+                "optimum"
+            ]
+        },
+        {
+            "element": "nav",
+            "description": "Define uma seção de navegação em um documento.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "output",
+            "description": "Define o resultado de um cálculo.",
+            "attributes": [
+                "for",
+                "form",
+                "name"
+            ]
+        },
+        {
+            "element": "progress",
+            "description": "Exibe o progresso da conclusão de uma tarefa.",
+            "attributes": [
+                "value",
+                "max"
+            ]
+        },
+        {
+            "element": "q",
+            "description": "Define uma citação curta.",
+            "attributes": [
+                "cite"
+            ]
+        },
+        {
+            "element": "rp",
+            "description": "Fornece texto alternativo para navegadores que não suportam a tag ＜ruby＞.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "rt",
+            "description": "Define uma explicação/pronúncia de caracteres (para scripts asiáticos) em uma tag ＜ruby＞.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "ruby",
+            "description": "Define uma explicação/pronúncia de caracteres (para scripts asiáticos).",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "s",
+            "description": "Define texto que não é mais preciso ou relevante.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "samp",
+            "description": "Define uma amostra de saída de um programa de computador.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "small",
+            "description": "Define texto menor.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "strong",
+            "description": "Define texto importante.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "sub",
+            "description": "Define texto subscrito.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "summary",
+            "description": "Define um cabeçalho visível para um elemento ＜details＞.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "sup",
+            "description": "Define texto sobrescrito.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "time",
+            "description": "Define uma data/hora.",
+            "attributes": [
+                "datetime"
+            ]
+        },
+        {
+            "element": "u",
+            "description": "Define texto com ênfase adicional.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "var",
+            "description": "Define uma variável em um programa de computador.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "wbr",
+            "description": "Define onde uma possível quebra de linha deve ocorrer.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "template",
+            "description": "Habilita a inclusão de fragmentos HTML do lado do cliente e a renderização condicional de acordo com o JavaScript.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "slot",
+            "description": "Define um ponto de inserção para conteúdo HTML em um modelo.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "shadow",
+            "description": "Define sombras em elementos.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "picture",
+            "description": "Contém elementos ＜source＞ para oferecer várias versões de uma imagem para diferentes tamanhos de exibição e dispositivos.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "source",
+            "description": "Define várias fontes para elementos ＜picture＞, ＜audio＞ e ＜video＞.",
+            "attributes": [
+                "src",
+                "srcset",
+                "sizes",
+                "type",
+                "media"
+            ]
+        },
+        {
+            "element": "track",
+            "description": "Define faixas de texto para elementos ＜video＞ e ＜audio＞.",
+            "attributes": [
+                "src",
+                "srclang",
+                "label",
+                "kind",
+                "default"
+            ]
+        },
+        {
+            "element": "wbr",
+            "description": "Define onde uma possível quebra de linha deve ocorrer.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "article",
+            "description": "Define um artigo independente em um documento.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "aside",
+            "description": "Define um conteúdo à parte em um documento.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "b",
+            "description": "Define texto em negrito.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "big",
+            "description": "Define texto grande.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "center",
+            "description": "Define texto centralizado.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "cite",
+            "description": "Define o título de uma obra criativa (por exemplo, um livro, um poema ou uma música).",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "code",
+            "description": "Define uma peça de código.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "col",
+            "description": "Define as propriedades das colunas para elementos ＜colgroup＞.",
+            "attributes": [
+                "span"
+            ]
+        },
+        {
+            "element": "colgroup",
+            "description": "Agrupa elementos ＜col＞ para formatar as colunas em uma tabela.",
+            "attributes": [
+                "span"
+            ]
+        },
+        {
+            "element": "data",
+            "description": "Armazena informações de máquina legíveis em elementos ＜time＞.",
+            "attributes": [
+                "value"
+            ]
+        },
+        {
+            "element": "embed",
+            "description": "Define um conteúdo incorporado, como multimídia em uma página web.",
+            "attributes": [
+                "src",
+                "type",
+                "width",
+                "height"
+            ]
+        },
+        {
+            "element": "fieldset",
+            "description": "Agrupa elementos relacionados em um formulário.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "legend",
+            "description": "Define uma legenda para um elemento ＜fieldset＞.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "font",
+            "description": "Define a fonte, a cor e o tamanho do texto.",
+            "attributes": [
+                "size",
+                "color",
+                "face"
+            ]
+        },
+        {
+            "element": "frameset",
+            "description": "Define um conjunto de quadros para layout de página.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "noframes",
+            "description": "Fornece conteúdo alternativo para navegadores que não suportam quadros.",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "strike",
+            "description": "Define texto riscado (em desuso; use ＜s＞ em vez disso).",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "tt",
+            "description": "Define texto de teletipo (em desuso; use ＜code＞ em vez disso).",
+            "attributes": [
+                "Nenhum"
+            ]
+        },
+        {
+            "element": "xmp",
+            "description": "Define texto pré-formatado (em desuso; use ＜pre＞ em vez disso).",
+            "attributes": [
+                "Nenhum"
+            ]
+        }
+    ]
+}
