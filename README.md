@@ -1,7 +1,6 @@
 # Referência Rápida de Tags HTML
 
-[![HTML Logo](![image](https://github.com/AndrZip/tagshtml.io/assets/79728727/297763ec-b46a-40f8-8dac-e9ccec5273ac)
-)](https://andrzip.github.io/tagshtml.io/)
+[![HTML Logo](https://i.pinimg.com/originals/50/7d/88/507d8802a9c758369b52fd70d37b8eaf.png)](https://andrzip.github.io/tagshtml.io/)
 
 ## Bem-vindo ao nosso Guia de Tags HTML!
 
