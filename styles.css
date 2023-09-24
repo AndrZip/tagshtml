@@ -3,6 +3,7 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
+    position: relative;
 }
 
 h1 {
@@ -10,10 +11,11 @@ h1 {
     background-color: #333;
     color: #fff;
     padding: 20px 0;
+    margin-top: 0;
 }
 
 table {
-    width: 80%;
+    width: 97%;
     margin: 20px auto;
     border-collapse: collapse;
     background-color: #fff;
@@ -41,6 +43,11 @@ tr:hover {
 .pagination {
     text-align: center;
     margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
 }
 
 .pagination button {
@@ -50,8 +57,30 @@ tr:hover {
     border: none;
     cursor: pointer;
     margin: 5px;
+    border-radius: 20px;
 }
 
 .pagination button:hover {
+    background-color: #555;
+}
+
+.socialButton {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+.socialButton a {
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: #333;
+    border-radius: 20px;
+}
+
+.socialButton a:hover {
     background-color: #555;
 }

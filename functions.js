@@ -1,5 +1,5 @@
 let currentPage = 1;
-const itemsPerPage = 12;
+const itemsPerPage = 14;
 let tagsData = [];
 
 function loadTagsData() {
