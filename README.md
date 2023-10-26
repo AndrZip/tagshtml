@@ -17,4 +17,4 @@ Seja você um estudante que está começando no mundo do desenvolvimento web ou 
 
 Clique na imagem acima para explorar nosso site e aprimorar suas habilidades de codificação HTML. Esperamos que você encontre este recurso útil e inspirador em seus projetos web!
 
-[Visite nosso site](SEU_LINK_AQUI) para começar agora.
+[Visite nosso site](https://andrzip.github.io/tagshtml/) para começar agora.
